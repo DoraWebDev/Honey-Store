@@ -23,6 +23,7 @@ body::before {
 	mask: linear-gradient(-15deg, transparent 30%, rgb(245, 234, 206));
 	top: 0;
 	z-index: -1;
+	opacity: 0.3;
 }
 
 section {
